@@ -3,10 +3,10 @@ the rainbow
 purple
 pink
 orange
-blue
 green
-yellow
-red
+beige
+ivory
+khaki
 these are the colours of the rainbow.
 
  (I spelt colours correctly the first time so this message will be my edit.)

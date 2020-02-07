@@ -8,6 +8,7 @@ green
 yellow
 red
 beige
+ivory
 these are the colours of the rainbow.
 
  (I spelt colours correctly the first time so this message will be my edit.)
